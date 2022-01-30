@@ -13,6 +13,7 @@ Ride-sharing data include the total rides, total drivers, total fares, average f
 
 ![City Type Summary](/resources/City_Type_Summary_df.png)
 
+![City Type Summary](/analysis/Total_Fare_by_city_Type.png)
 
 
 
