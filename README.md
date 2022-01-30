@@ -9,7 +9,7 @@ Using images from the summary DataFrame and multiple-line chart, describe the di
 
 Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type.
 
-**_Figure 1: City Type Summary**
+**_Figure 1: City Type Summary_**
 
 ![City Type Summary](/resources/City_Type_Summary_df.png)
 
