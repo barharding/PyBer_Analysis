@@ -1,7 +1,8 @@
 # PyBer Analysis
 
 ## Overview of the analysis
-Explain the purpose of the new analysis.
+
+Pyber is a ride-sharing company with over $2B in sales.  The purpose of this analysis is to develop a summary of the ride-share data by city type for the period of January to May 2019.  In addition, a visualization of the total weekly fares for each type will be developed.  Leveraging both the summary data and visualizations this report will show the differences by city type in PyBer ride-share data.  
 
 
 ## Results
