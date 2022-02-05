@@ -18,7 +18,7 @@ In **_Figure 2: City Type Summary_** we can make the following observations:
 - Rural drivers make more than Urban drivers because there are less drivers as a percentage of total rides.  The total drivers divided by the number of rides is 62.4% for rural cities versus 148% for Urban city types.  There is simply more competition amongst drivers in the urban cities.
 - The suburban averages fall in the middle of the two bookends that being rural and urban.
 
-Comparisons or conclusions about the total number of rides, drivers and total fares cannot be made from this summary table because the total number of cities by city type differs.  Given the number of Urban cities is 66 versus 36 for surburban and 18 for rural it is natural that the ride and driver counts would be higher given the population of cities included in the analysis is higher.  
+Comparisons or conclusions about the total number of rides, drivers and total fares cannot be made from this summary table because the total number of cities by city type differs.  The city type with the highest number of cities will naturally have higher values given the larger population.   
 
 **_Figure 1: City Type Summary_**
 
