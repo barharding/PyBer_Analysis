@@ -2,7 +2,7 @@
 
 ## Overview of the analysis
 
-Pyber is a ride-sharing company with over $2B in sales.  The purpose of this analysis is to develop a summary of the ride-share data by city type for the period of January to May 2019.  In addition, a visualization of the total weekly fares for each type will be developed.  Leveraging both the summary data and visualizations this report will show the differences by city type in PyBer ride-share data.  
+Pyber is a ride-sharing company with over $2B in sales.  The purpose of this analysis is to develop a summary of the ride-share data by city type for the period of January to May 2019.  In addition, a visualization of the total weekly fares for each type will be developed.  Leveraging both the summary data and visualizations this report will show the differences by city type in PyBer ride-share data and develop recommendations.
 
 
 ## Results
@@ -10,15 +10,16 @@ Pyber is a ride-sharing company with over $2B in sales.  The purpose of this ana
 ### Summary Data Analysis
 Before analyzing the summary data.  One observation about the data itself which is worth pointing out is that the number of cities in the analysis by type is different.    This was verified by adding to the analysis the following code shown in **_Figure 1: City Count by Type_**.
 
-![City Count by Type](/resources/city_count.png)
 
+![City Count by Type](/resources/city_count.png)
 
 In **_Figure 2: City Type Summary_** we can make the following observations:
 
 - The average fare per ride is higher in rural cities - likely due to longer distances and duration.
 - Rural drivers make more than Urban drivers because there are less drivers as a percentage of total rides.  For example, total drivers divided by # of rides is 62.4% for rural versus 148% for Urban city types.  There is simply more competition amongst drivers in the urban cities.
 - The Suburban averages fall in the middle of the two bookends that being rural and urban.
-- comparisons or conclusions about the total number of fares, total drivers and total fares cannot be made from this summary table because the total number of cities by city type differs.  If there are simply that many more urban cities 66 in this case included in the count versus 18 for rural, it is natural that all of the numbers would be higher.
+
+Comparisons or conclusions about the total number of rides, drivers and total fares cannot be made from this summary table because the total number of cities by city type differs.  Given the number of Urban cities is 66 versus 36 for surburban and 18 for rural it is natural that the ride and driver counts would be higher given the population of cities included in the analysis is higher.  
 
 **_Figure 1: City Type Summary_**
 
