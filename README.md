@@ -2,14 +2,13 @@
 
 ## Overview of the analysis
 
-Pyber is a ride-sharing company with over $2B in sales.  The purpose of this analysis is to develop a summary of the ride-share data by city type for the period of January to May 2019.  In addition, a visualization of the total weekly fares for each type will be developed.  Leveraging both the summary data and visualizations this report will show the differences by city type in PyBer ride-share data and develop recommendations.
+Pyber is a ride-sharing company with over $2B in sales.  The purpose of this analysis is to develop a summary of the ride-share data by city type for the period of January to May 2019.  In addition, a visualization of the total weekly fares for each type will be developed.  Leveraging both the summary data and visualizations, this report will show the differences by city type in PyBer ride-share data and develop recommendations.
 
 
 ## Results
 
 ### Summary Data Analysis
-Before analyzing the summary data, one observation about the data itself which is worth pointing out is that the number of cities in the analysis by type is different.    We can see that there were 66 urban cities, 36 suburban and 18 rural cities in the data set.  This was verified by executing the code shown in **_Figure 1: City Count by Type_**.  
-
+Before analyzing the summary data, one observation about the data itself which is worth pointing out is that the number of cities by type in the data set is different.    **_Figure 1: City Count by Type_** shows there are 66 urban cities, 36 suburban and 18 rural cities in the data set.  
 
 ![City Count by Type](/resources/city_count.png)
 
