@@ -13,6 +13,8 @@ There are other factors which could influence volume of rides with a city.This d
 
 In **_Figure 1: City Type Summary_** we can make the following observations:
 
+- 
+
 
 
 Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type.
