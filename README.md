@@ -12,17 +12,18 @@ In **_Figure 1: City Type Summary_** we can make the following observations:
 - The average fare per ride is higher in Rural cities - likely due to longer distances and duration
 - Rural drivers make more than Urban drivers because there are less drivers as a percentage of total rides.  For example, total drivers divided by # of rides is 62.4% for rural versus 148% for Urban city types.  There is simply more competition amongst drivers in the urban cities.  
 
+**_Figure 1: City Type Summary_**
+
+![City Type Summary](/resources/City_Type_Summary_df.png)
+
 Comparisions about the differences in the total number of drivers, total drivers and total fares cannot be made from this summary table because the total # of cities by city type differs.  This was verified by adding the code shown in **_Figure 2: City Count by Type_**.
 
 ![City Count by Type](/resources/city_count.png)
 
 
-
 Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type.
 
-**_Figure 1: City Type Summary_**
 
-![City Type Summary](/resources/City_Type_Summary_df.png)
 
 ![City Type Summary](/analysis/Total_Fare_by_city_Type.png)
 
