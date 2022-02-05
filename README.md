@@ -7,13 +7,14 @@ Pyber is a ride-sharing company with over $2B in sales.  The purpose of this ana
 
 ## Results
 
-
-
-There are other factors which could influence volume of rides with a city.This data set is for 5 months of the year which may or may not be representative of all periods.  Other factors 
-
 In **_Figure 1: City Type Summary_** we can make the following observations:
 
-- 
+- The average fare per ride is higher in Rural cities - likely due to longer distances and duration
+- Rural drivers make more than Urban drivers because there are less drivers as a percentage of total rides.  For example, total drivers divided by # of rides is 62.4% for rural versus 148% for Urban city types.  There is simply more competition amongst drivers in the urban cities.  
+
+Comparisions about the differences in the total number of drivers, total drivers and total fares cannot be made from this summary table because the total # of cities by city type differs.  This was verified by adding the code shown in **_Figure 2: City Count by Type_**.
+
+![City Count by Type](/resources/city_count.png)
 
 
 
