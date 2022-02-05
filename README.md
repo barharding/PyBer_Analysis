@@ -18,7 +18,7 @@ In **_Figure 2: City Type Summary_** we can make the following observations:
 - Rural drivers make more than Urban drivers because there are less drivers as a percentage of total rides.  The total drivers divided by the number of rides is 62.4% for rural cities versus 148% for Urban city types.  There is simply more competition amongst drivers in the urban cities.
 - The suburban averages fall in the middle of the two bookends that being rural and urban.
 
-Comparisons or conclusions about the total number of rides, drivers and total fares cannot be made from this summary table because the total number of cities by city type differs.  The city type with the highest number of cities will naturally have higher values given the larger population.   
+Comparisons or conclusions about the total number of rides, drivers and total fares cannot be made from this summary table because the total number of cities by city type differs.  The city type with the highest number of cities will naturally result higher values.
 
 **_Figure 2: City Type Summary_**
 
@@ -26,14 +26,16 @@ Comparisons or conclusions about the total number of rides, drivers and total fa
 
 ### Weekly Fare Analysis
 
+**_Figure 3: Weekly Fares City Type_**
+
 ![City Type Summary](/analysis/Total_Fare_by_city_Type.png)
 
-
+The line chart simply shows the total revenue per week by city type.  Revenue is highest in the urban city total however it has the most cities which is 66 as compared with suburban at 36 cities, and just 18 for rural.
 
 ## Summary
 Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
 
-Before summarizing the results and drawing conclusions is important to list what we don't know about the data which might skew the observations.  For example, fares for ride-sharing services are based on distance and duration this is likely common for each city type but it is entirely possible that the prices applied to this algorythm are different by city type.  This analysis assumed it was the same price in all city types.  In addition, ride-share services often provide a selection of service types like green, luxury, or economic which would have their own price points and once again it is unclear if this type of variety existed in the data we assume it is not a factor.
+Before summarizing the results and drawing conclusions is important to list what we don't know about the data which might skew the observations.  For example, fares for ride-sharing services are based on distance and duration, this is likely common for each city type, but it is entirely possible that the prices applied to this algorythm might be different by city type.  This analysis assumed it was the same price in all city types.  In addition, ride-share services often provide a selection of service types like green, luxury, or economic which would have their own price points and once again it is unclear if this type of variety existed in the data we assume it is not a factor.
 
 There are other limitations in this data set which included could proved insightful.  First, the data set is for 5 months of the year which may or may not be representative of all periods.  Furthermore, additional city characteristics could provide more insights.  For example, if you have two cities which are relatively the same in population size you might expect the number of ride and fare averages however things like household average incomes, the number of sporting or entertainment venues, and strength of local economy will likely impact consumer behaviour not to mention the number of competitors in the city.   Other considerations are the types of roads in the city such as paved vs dirt or toll highways vs free which can have an impact on the average fare prices because the duration variable in the pricing algorythm would increase or decrease.
 
@@ -41,7 +43,7 @@ There are other limitations in this data set which included could proved insight
 
 There are no recommendations I would make to the CEO until I understand from the CEO what their objective is or rather what problem do they want to solve.  
 
-For example, if the CEO were to indicate that driver turnover in Urban cities is high due to the average fare per driver being low there are two levers which could change this outcome.  The numerator, Fares, could be adjusted to charge more in urban cities and/or the denominator, number of drivers, could be reduced by making the qualifications to become a driver for PyBer more strigent.  When making these kinds of choices additional analysis may be required.  If for example we choose to increase the price, the impact my be positive for the drivers at first but in short order their earnings may begin to fall again due to less rides as competitors with a lower prices steal market share.  Before we finalize the decision to increase price analyzing price elasticity becomes very important along with a SWAT analysis the competitors.
+For example, if the CEO were to indicate that driver turnover in Urban cities is high due to the average fare per driver being low there are two levers which could change this outcome.  The numerator, fares, could be adjusted to charge more in urban cities and/or the denominator, number of drivers, could be reduced by making the qualifications to become a driver for PyBer more strigent.  When making these kinds of choices additional analysis may be required.  If for example we choose to increase the price, the impact my be positive for the drivers at first but in short order their earnings may begin to fall again due to less rides as competitors with a lower prices steal market share.  Before we finalize the decision to increase price analyzing price elasticity becomes very important along with a SWAT analysis the competitors.
 
 Alternatively, if we leave price alone and cull the driver pool.  Once again, existing drivers would benefit from more rides however over time consumers may have to wait longer for a driver to show up and this could lead to customer abandonment if competitors are doing a better job on this KPI.
 
